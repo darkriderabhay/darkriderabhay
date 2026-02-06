@@ -2,7 +2,7 @@
 
 🎓 BBA (Computer Applications) Student  
 💻 Web Developer
- Business-Oriented tasks.
+🎯Business-Oriented tasks.
 
 ## About Me
 I am a BBA-CA student with hands-on experience in building business-focused web applications. I work with HTML, CSS, JavaScript, Node.js, and MySQL to create practical systems for data handling and process management.
